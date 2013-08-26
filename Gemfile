@@ -22,7 +22,7 @@ end
 gem 'therubyracer'
 gem 'jquery-rails'
 gem 'pg'
-gem 'crm_integration', '0.0.1'
+gem 'crm_integration', '0.0.2'
 
 
 # To use ActiveModel has_secure_password

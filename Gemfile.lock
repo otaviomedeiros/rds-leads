@@ -37,7 +37,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.6.3)
-    crm_integration (0.0.1)
+    crm_integration (0.0.2)
       activesupport (= 3.2.13)
       rubyzoho (= 0.1.7)
     erubis (2.7.0)
@@ -129,7 +129,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 3.2.1)
-  crm_integration (= 0.0.1)
+  crm_integration (= 0.0.2)
   jquery-rails
   pg
   rails (= 3.2.13)
