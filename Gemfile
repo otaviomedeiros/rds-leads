@@ -24,6 +24,10 @@ gem 'jquery-rails'
 gem 'pg'
 gem 'crm_integration', '0.0.2'
 
+group :development, :test do
+  gem 'rspec-rails', '~> 2.0'
+end
+
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
