@@ -22,7 +22,7 @@ end
 gem 'therubyracer'
 gem 'jquery-rails'
 gem 'pg'
-gem 'crm_integration', '0.0.2'
+gem 'crm_integration', '0.0.3'
 
 group :development, :test do
   gem 'rspec-rails', '~> 2.0'
